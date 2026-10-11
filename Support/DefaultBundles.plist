@@ -520,6 +520,22 @@
 			<key>autoUpdate</key>
 			<true/>
 			<key>category</key>
+			<string>SCM</string>
+			<key>description</key>
+			<string>Show indication in gutter for added/modified lines</string>
+			<key>name</key>
+			<string>SCM Diff Gutter</string>
+			<key>ref</key>
+			<string>main</string>
+			<key>url</key>
+			<string>https://github.com/textmatelives/scm-diff-gutter.tmbundle</string>
+			<key>uuid</key>
+			<string>7A84ECFC-2683-4129-826D-51F05F7E668A</string>
+		</dict>
+		<dict>
+			<key>autoUpdate</key>
+			<true/>
+			<key>category</key>
 			<string>Languages</string>
 			<key>description</key>
 			<string>Database query language with support for MySQL and PostgreSQL.</string>
